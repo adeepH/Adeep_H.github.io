@@ -1,11 +1,17 @@
-## Portfolio
+## Experience 
+Machine Learning Intern at Raaga Food Products Pvt Ltd <br>
+Research Intern at National University of Ireland, Galway. worked on 
+multi-task learning among under-resourced languages like Kannada.
 
 ---
 
-### Category Name 1 
+### [Digit Recognizer Webpage] 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A webpage that classifies the digits (0-9) when drawn with the help of the touchpad/mouse on the screen.The model is run on tensorflow.js
+<br>
+Dataset: MNIST
+<br>
+<a href:"https://gitub.com/adeepH/MNIST.github.io">Repo Link</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
