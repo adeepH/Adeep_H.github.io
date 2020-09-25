@@ -4,9 +4,9 @@
 multi-task learning among under-resourced languages like Kannada.
 
 ---
-### Projects
+## Projects
 
-## Movie Recommendation System
+# Movie Recommendation System
 
 Primitive Machine learning algorithms such as Naive Bayes was used for the user-based collaborative recommendation system with laplacian smoothing.
 <br>
@@ -16,23 +16,27 @@ An unsupervised approach of Restricted Boltzmann Machine was used to develop the
 <br>
 Dataset: MovieLens 100K
 <br>
-[Repo](https://github.com/adeepH/User_based-Movie-Recommendation)
+[Github Repo](https://github.com/adeepH/User_based-Movie-Recommendation)
+
 ---
 
-## Digit Recognizer Webpage 
+# Digit Recognizer Webpage 
 
 A webpage that classifies the digits (0-9) when drawn with the help of the touchpad/mouse on the screen.The model is run on tensorflow.js
 <br>
 Dataset: MNIST
 <br>
-[Repo](https://github.com/adeepH/Digit-Classifier)
+[Githbu Repo](https://github.com/adeepH/Digit-Classifier)
 
 <img src="images/7.png?raw=true"/>
+
 ---
-## SRGAN
+
+# SRGAN
 
 State of the Art (SoTA) implementation of Photo realistic images using super resolution GAN. This was implemented on DiaretDB datasets to generate the fundus images of the eye.
-[repo](https://github.com/adeepH/SRGAN)
+<br>
+[Github repo](https://github.com/adeepH/SRGAN)
 
 ---
 
