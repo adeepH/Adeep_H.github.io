@@ -8,25 +8,25 @@ multi-task learning among under-resourced languages like Kannada.
 
 # Movie Recommendation System
 
-Primitive Machine learning algorithms such as Naive Bayes was used for the user-based collaborative recommendation system with laplacian smoothing.
+- Primitive Machine learning algorithms such as Naive Bayes was used for the user-based collaborative recommendation system with laplacian smoothing.
 <br>
-Dataset : IMDB
+- Dataset : IMDB
 <br>
-An unsupervised approach of Restricted Boltzmann Machine was used to develop the recommendation system.
+- An unsupervised approach of Restricted Boltzmann Machine was used to develop the recommendation system.
 <br>
-Dataset: MovieLens 100K
+- Dataset: MovieLens 100K
 <br>
-[Github Repo](https://github.com/adeepH/User_based-Movie-Recommendation)
+- [Github Repo](https://github.com/adeepH/User_based-Movie-Recommendation)
 
 ---
 
 # Digit Recognizer Webpage 
 
-A webpage that classifies the digits (0-9) when drawn with the help of the touchpad/mouse on the screen.The model is run on tensorflow.js
+- A webpage that classifies the digits (0-9) when drawn with the help of the touchpad/mouse on the -screen.The model is run on tensorflow.js
 <br>
-Dataset: MNIST
+- Dataset: MNIST
 <br>
-[Githbu Repo](https://github.com/adeepH/Digit-Classifier)
+- [Githbu Repo](https://github.com/adeepH/Digit-Classifier)
 
 <img src="images/7.png?raw=true"/>
 
@@ -34,9 +34,9 @@ Dataset: MNIST
 
 # SRGAN
 
-State of the Art (SoTA) implementation of Photo realistic images using super resolution GAN. This was implemented on DiaretDB datasets to generate the fundus images of the eye.
+- State of the Art (SoTA) implementation of Photo realistic images using super resolution GAN. This was implemented on DiaretDB datasets to generate the fundus images of the eye.
 <br>
-[Github repo](https://github.com/adeepH/SRGAN)
+- [Github repo](https://github.com/adeepH/SRGAN)
 
 ---
 
