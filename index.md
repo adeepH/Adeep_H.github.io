@@ -17,7 +17,7 @@ An unsupervised approach of Restricted Boltzmann Machine was used to develop the
 Dataset: MovieLens 100K
 <br>
 [Repo](https://github.com/adeepH/User_based-Movie-Recommendation)
-
+---
 
 ## Digit Recognizer Webpage 
 
@@ -29,12 +29,10 @@ Dataset: MNIST
 
 <img src="images/7.png?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## SRGAN
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+State of the Art (SoTA) implementation of Photo realistic images using super resolution GAN. This was implemented on DiaretDB datasets to generate the fundus images of the eye.
+[repo](https://github.com/adeepH/SRGAN)
 
 ---
 
