@@ -4,6 +4,18 @@
 multi-task learning among under-resourced languages like Kannada.
 
 ---
+## Projects
+
+## Movie Recommendation System
+
+Primitive Machine learning algorithms such as Naive Bayes was used for the user-based collaborative recommendation system with laplacian smoothing.
+<br>
+Dataset : IMDB
+<br>
+An unsupervised approach of Restricted Boltzmann Machine was used to develop the recommendation system.
+<br>
+Dataset: MovieLens 100K
+
 
 ## Digit Recognizer Webpage 
 
