@@ -1,6 +1,6 @@
 ## Experience 
-Machine Learning Intern at Raaga Food Products Pvt Ltd <br>
-Research Intern at National University of Ireland, Galway. worked on 
+- Machine Learning Intern at Raaga Food Products Pvt Ltd <br>
+- Research Intern at National University of Ireland, Galway. worked on 
 multi-task learning among under-resourced languages like Kannada.
 
 ---
