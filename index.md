@@ -15,6 +15,7 @@ Dataset : IMDB
 An unsupervised approach of Restricted Boltzmann Machine was used to develop the recommendation system.
 <br>
 Dataset: MovieLens 100K
+<br>
 [Repo](https://github.com/adeepH/User_based-Movie-Recommendation)
 
 
