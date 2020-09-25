@@ -5,14 +5,14 @@ multi-task learning among under-resourced languages like Kannada.
 
 ---
 
-### [Digit Recognizer Webpage] 
+### Digit Recognizer Webpage 
 
 A webpage that classifies the digits (0-9) when drawn with the help of the touchpad/mouse on the screen.The model is run on tensorflow.js
 <br>
 Dataset: MNIST
 <br>
-<a href:"https://gitub.com/adeepH/MNIST.github.io">Repo Link</a>
-
+<a href:"https://gitub.com/adeepH/MNIST.github.io">Link</a>
+<img src="images/7.png?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
