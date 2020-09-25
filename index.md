@@ -11,7 +11,7 @@ A webpage that classifies the digits (0-9) when drawn with the help of the touch
 <br>
 Dataset: MNIST
 <br>
-[Repo](https://gitub.com/adeepH/MNIST.github.io)
+[Repo](https://github.com/adeepH/Digit-Classifier)
 
 <img src="images/7.png?raw=true"/>
 ---
