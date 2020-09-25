@@ -4,7 +4,7 @@
 multi-task learning among under-resourced languages like Kannada.
 
 ---
-## Projects
+### Projects
 
 ## Movie Recommendation System
 
